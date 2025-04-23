@@ -1,0 +1,19 @@
+.oddnumbers{
+    font-family: 'Verdana', 'DejaVu Sans','sans-serif';
+    background-color: #fe004cb1;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#element2{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#element4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
